@@ -1,4 +1,4 @@
-/* Add CSS styles for your web site here and use them in index.html. */
+
 body{
     font-family: Fira Code, monospace;
     margin: 0;
@@ -48,7 +48,7 @@ body{
   margin: 15px auto 20px;
 }
 
-/* Your neon tiles already center themselves; make the title line up nicely too */
+
 #countdown h2 {
   width: 100%;
   text-align: center;
@@ -256,6 +256,7 @@ body{ color:inherit; }
 }
 
 :root {
-  --paper: #f3e7c3;              /* you already had this */
-  --accent-color-medium: #e9d5ff; /* light purple for navbar */
+  --paper: #f3e7c3;              
+  --accent-color-medium: #e9d5ff; 
+
 }
